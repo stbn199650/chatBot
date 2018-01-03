@@ -35,8 +35,8 @@ https://imgur.com/SPA5nMb
 
 	- input: ```"go to state1"```
 		- response: ```"Hello~"``` 	
-        *show image*
-        *go to state state1*		
+        *show image
+        *go to state state1	
 	
 	- input: ```"go to state2"```
 		- response: ```"I'm entering state2"``` 	
